@@ -1,6 +1,6 @@
 from django.shortcuts import render
 
-from models import SliderImage
+from .models import SliderImage
 
 
 def index(request):
